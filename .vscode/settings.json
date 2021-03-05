@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "thread": "c",
+        "typeinfo": "c",
+        "functional": "c",
+        "cstring": "c",
+        "stdlib.h": "c",
+        "string_view": "c",
+        "tuple": "c",
+        "errno.h": "c",
+        "hashtable.h": "c",
+        "unistd.h": "c",
+        "*.cuh": "c",
+        "omp.h": "c"
+    }
+}
