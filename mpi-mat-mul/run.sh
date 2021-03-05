@@ -1,0 +1,1 @@
+mpirun -n 4 ./mpi-mat-mul
